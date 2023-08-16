@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **harshtripathi752@gmail.com**
 
-- ⚡ Fun fact **i not only speaks binary but also fluently communicates in colors, fonts, and pixels.**
+- ⚡ Fun fact **i not only speak binary but also fluently communicate in colors, fonts, and pixels.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hasht_ee" target="blank"><img align="center" src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="hasht_ee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harsh-tripathi-919995248" target="blank"><img align="center" src="" alt="harsh-tripathi-919995248" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hasht" target="[blank](https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=2147483647&v=beta&t=Zq1zixRFUNMSm2Ldgu_hcJAYTL1gWG3VHKXO4kf9lDQ)"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="hasht" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsh-tripathi-919995248" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="harsh-tripathi-919995248" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/hasht" target="[blank](https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=2147483647&v=beta&t=Zq1zixRFUNMSm2Ldgu_hcJAYTL1gWG3VHKXO4kf9lDQ)"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" alt="hasht" height="70" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
