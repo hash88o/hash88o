@@ -1,7 +1,7 @@
 <img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="MasterHead">
 <h1 align="center">hi 👋, i'm harsh</h1>
 <h3 align="center">i like developing and designing.</h3>
-<img align="right" alt="hi" width="400" src="https://www.desicomments.com/wp-content/uploads/2017/07/Hello.gif">
+<img align="center" alt="hi" height= "100" width="300" src="https://www.desicomments.com/wp-content/uploads/2017/07/Hello.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hash88o&label=Profile%20views&color=0e75b6&style=flat" alt="hash88o" /> </p>
 
