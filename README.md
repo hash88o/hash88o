@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/hasht_ee" target="blank"><img src="https://img.shields.io/twitter/follow/hasht_ee?logo=twitter&style=for-the-badge" alt="hasht_ee" /></a> </p>
 
-- 👯 i’m looking to collaborate on **web devlopment**
+- 👯 i’m looking to collaborate on **devlopment projects**
 
-- 💬 ask me about **css, js, java**
+- 💬 StAcK **mern, java, python**
 
 - 📫 How to reach me **harshtripathi752@gmail.com**
 
