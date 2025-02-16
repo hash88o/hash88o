@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hash88o" alt="hash88o" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/hasht_ee" target="blank"><img src="https://img.shields.io/twitter/follow/hasht_ee?logo=twitter&style=for-the-badge" alt="hasht_ee" /></a> </p>
+
 
 - 👯 i’m looking to collaborate on **devlopment projects**
 
