@@ -19,7 +19,6 @@
 
 > Passionate **Full Stack Developer** with expertise in modern web technologies and software engineering principles. I specialize in building scalable applications and solving complex problems through clean, efficient code.
 
-```javascript
 const developer = {
     name: "Harsh Tripathi",
     location: "India 🇮🇳",
@@ -48,7 +47,6 @@ const developer = {
 
 // Always learning, always growing 🚀
 console.log(`${developer.name} is ready to build amazing things!`);
-```
 
 ## 💼 Professional Highlights
 
