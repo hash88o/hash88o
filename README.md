@@ -20,14 +20,34 @@
 > Passionate **Full Stack Developer** with expertise in modern web technologies and software engineering principles. I specialize in building scalable applications and solving complex problems through clean, efficient code.
 
 ```javascript
-const harsh = {
-    location: "India",
-    role: "Full Stack Developer",
-    experience: "Building robust web applications",
-    expertise: ["Frontend", "Backend", "Database Design", "Cloud Deployment"],
-    currentFocus: "Developing enterprise-grade solutions",
-    availableFor: "Full-time opportunities & collaborations"
+const developer = {
+    name: "Harsh Tripathi",
+    location: "India 🇮🇳",
+    role: "Full Stack Developer & Software Engineer",
+    experience: {
+        years: "2+",
+        focus: "Building scalable web applications & enterprise solutions"
+    },
+    expertise: [
+        "Frontend Development (React, JavaScript)",
+        "Backend Engineering (Node.js, Express)",
+        "Database Architecture (MongoDB, MySQL)",
+        "Cloud Deployment (Azure, GCP)",
+        "System Design & Optimization"
+    ],
+    currentlyWorking: "Open source contributions & personal projects",
+    openTo: [
+        "Full-time Software Engineer positions",
+        "Freelance development projects",
+        "Technical collaborations",
+        "Mentorship opportunities"
+    ],
+    codePhilosophy: "Clean code is not written by following a set of rules. Clean code is written by programmers who care.",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
+
+// Always learning, always growing 🚀
+console.log(`${developer.name} is ready to build amazing things!`);
 ```
 
 ## 💼 Professional Highlights
