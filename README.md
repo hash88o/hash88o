@@ -19,6 +19,7 @@
 
 > Passionate **Full Stack Developer** with expertise in modern web technologies and software engineering principles. I specialize in building scalable applications and solving complex problems through clean, efficient code.
 
+```javascript
 const developer = {
     name: "Harsh Tripathi",
     location: "India 🇮🇳",
@@ -47,24 +48,31 @@ const developer = {
 
 // Always learning, always growing 🚀
 console.log(`${developer.name} is ready to build amazing things!`);
+```
 
-## 💼 Professional Highlights
+## 💼 What I Bring to the Table
 
-- 🏗️ **Full Stack Expertise**: End-to-end application development using MERN stack
-- ⚡ **Performance Optimization**: Building high-performance, scalable web applications
-- 🔧 **Problem Solving**: Strong algorithmic thinking and data structure knowledge
-- ☁️ **Cloud Native**: Experience with Azure and Google Cloud Platform
-- 🎨 **UI/UX Focused**: Creating intuitive and responsive user interfaces
+🏗️ **Full Stack Expertise** - End-to-end application development using MERN stack with focus on scalability and performance
 
-## 🛠️ Technical Stack
+⚡ **Performance Optimization** - Building high-performance web applications that deliver exceptional user experiences
 
-### **Languages**
+🔧 **Problem Solving** - Strong algorithmic thinking and data structure knowledge for efficient solution design
+
+☁️ **Cloud Native Development** - Hands-on experience with Azure and Google Cloud Platform for modern deployments
+
+🎨 **UI/UX Focused** - Creating intuitive, responsive interfaces that users love to interact with
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### **Programming Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### **Frontend Development**
+### **Frontend Technologies**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -76,42 +84,47 @@ console.log(`${developer.name} is ready to build amazing things!`);
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Cloud & DevOps**
+### **Cloud & Development Tools**
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### **Tools & Software**
+### **Design & Development Environment**
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hash88o&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash88o&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+## 🎯 Current Focus
+
+🌟 **Open Source Contributions** - Actively contributing to the developer community through meaningful projects
+
+🚀 **Personal Projects** - Building innovative solutions that showcase modern development practices
+
+📚 **Continuous Learning** - Staying updated with the latest technologies and industry best practices
+
+💡 **Knowledge Sharing** - Helping fellow developers through code reviews and technical discussions
+
+## 🤝 Let's Build Something Amazing Together
+
+I'm passionate about creating impactful software solutions and collaborating with like-minded professionals. Whether you're looking for a dedicated team member, a collaborator for your next big idea, or simply want to discuss the latest in tech, I'm always excited to connect!
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hash88o&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
-## 🤝 Let's Connect & Collaborate
+### 📬 **Ready to Connect?**
 
-I'm always interested in discussing new opportunities, innovative projects, and technological challenges. Whether you're looking for a dedicated team member or want to collaborate on exciting projects, I'd love to hear from you!
-
-<div align="center">
-  
-### 📫 **Get in Touch**
-**Email:** harshtripathi752@gmail.com  
-**Portfolio:** [View My Work](https://prismatic-entremet-0c3922.netlify.app/)  
-**LinkedIn:** [Professional Profile](https://linkedin.com/in/harsh-tripathi-919995248)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_My_Work-FF5722?style=for-the-badge)](https://prismatic-entremet-0c3922.netlify.app/)
+[![Email](https://img.shields.io/badge/📧_Email-Let's_Talk-D14836?style=for-the-badge)](mailto:harshtripathi752@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Professional_Profile-0077B5?style=for-the-badge)](https://linkedin.com/in/harsh-tripathi-919995248)
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+### 💭 **Philosophy**
+*"The best code is not just functional—it's elegant, maintainable, and tells a story."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=hash88o&label=Profile%20Views&color=brightgreen&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=hash88o&label=Profile%20Views&color=00D4AA&style=for-the-badge)
+
+**⭐ If you find my work interesting, don't forget to star my repositories!**
 
 </div>
